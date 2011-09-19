@@ -4,7 +4,7 @@ Donate link: http://blog.ketelaar.info/projects/googlepluswidget/
 Tags: google plus widget api
 Requires at least: 2.0.2
 Tested up to: 2.2
-Stable tag: 1.0
+Stable tag: 1.1
 
 The Google Plus Widget is based on the official Google Plus API published by Google.
 
@@ -27,14 +27,14 @@ Setup instructions:
 
 4. Create an Oauth 2.0 client ID on the API Access Page
 
-* Product name = “Google Plus Widget”; press next
+* Product name = *Google Plus Widget*; press next
 * Select “Web Application”
-* Fill in the url of your wordpress installation; click “Create Client ID”
-* Click “edit settings”. Replace the “Authorized Redirect URI” with the url of your wordpress installation added with “/.index.php” (e.g. “http://www.mywordpress.com/index.php”)
+* Fill in the url of your wordpress installation; click *Create Client ID*
+* Click *edit settings*. Replace the *Authorized Redirect URI* with the url of your wordpress installation added with “/.index.php” (e.g. “http://www.mywordpress.com/index.php”)
 
 5. Go back to you WordPress Dashboard. Click on the Configuration Page by selecting “Google Plus Widget” under settings:
 
-* paste your Google Pus ID (a big number) at “google_plus_id”
+* paste your Google Pus ID (a big number) at *google_plus_id*
 * paste your oauth2_client_id from the API Access page
 * paste your oauth2_client_secret from the API Acces page
 * paste your oauth2_redirect_uri from the API Acces page
