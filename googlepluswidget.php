@@ -2,9 +2,9 @@
 /*
 Plugin Name: My Google Plus Widget
 Plugin URI: http://www.ketelaar.info/googlepluswidget/
-Description: Genealogy plugin will help you map out your family relationships using WordPress.
+Description: Enables a Widget which shows you Google Plus Updates (based on official Google API)
 Author: Arjen Ketelaar (Ketelaar Museum)
-Version: 1.1
+Version: 1.3
 Author URI: http://arjen.ketelaar.info
 
 Copyright 2011 Arjen Ketelaar (email: projects -at- ketelaar -dot- info)
