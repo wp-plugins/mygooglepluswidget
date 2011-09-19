@@ -4,7 +4,7 @@ Donate link: http://blog.ketelaar.info/projects/googlepluswidget/
 Tags: google plus widget api
 Requires at least: 2.0.2
 Tested up to: 3.2.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 The Google Plus Widget is based on the official Google Plus API published by Google.
 
