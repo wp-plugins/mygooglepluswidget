@@ -10,7 +10,7 @@ The Google Plus Widget is based on the official Google Plus API published by Goo
 
 == Description ==
 
-The Google Plus Widget is based on the official Google Plus API published by Google.
+The **Google Plus Widget** is based on the official Google Plus API published by Google.
 
 All you Google Plus updates will be presented in a widget. You can also show (public) updates from other Google Plus users.
 
