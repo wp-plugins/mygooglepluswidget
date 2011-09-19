@@ -28,11 +28,11 @@ Setup instructions:
 4. Create an Oauth 2.0 client ID on the API Access Page
 
 * Product name = *Google Plus Widget*; press next
-* Select “Web Application”
+* Select *Web Application*
 * Fill in the url of your wordpress installation; click *Create Client ID*
-* Click *edit settings*. Replace the *Authorized Redirect URI* with the url of your wordpress installation added with “/.index.php” (e.g. “http://www.mywordpress.com/index.php”)
+* Click *edit settings*. Replace the *Authorized Redirect URI* with the url of your wordpress installation added with */.index.php* (e.g. *http://www.mywordpress.com/index.php*)
 
-5. Go back to you WordPress Dashboard. Click on the Configuration Page by selecting “Google Plus Widget” under settings:
+5. Go back to you WordPress Dashboard. Click on the Configuration Page by selecting *Google Plus Widget* under settings:
 
 * paste your Google Pus ID (a big number) at *google_plus_id*
 * paste your oauth2_client_id from the API Access page
