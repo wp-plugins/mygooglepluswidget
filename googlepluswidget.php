@@ -7,7 +7,7 @@ Author: Arjen Ketelaar (Ketelaar Museum)
 Version: 1.0
 Author URI: http://arjen.ketelaar.info
 
-Copyright 2011 Katz Web Services, Inc.  (email: info@ketelaar.info)
+Copyright 2011 Arjen Ketelaar.  (email: projects -at- ketelaar -dot- info)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
