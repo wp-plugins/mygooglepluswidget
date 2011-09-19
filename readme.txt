@@ -3,7 +3,7 @@ Contributors: arjenketelaar
 Donate link: http://blog.ketelaar.info/projects/googlepluswidget/
 Tags: google plus widget api
 Requires at least: 2.0.2
-Tested up to: 2.2
+Tested up to: 3.2.1
 Stable tag: 1.1
 
 The Google Plus Widget is based on the official Google Plus API published by Google.
@@ -62,13 +62,16 @@ the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1
 
 == Changelog ==
 
+= 1.1 =
+Upgrade of the readme file to get versions 1.1
+
 = 1.0 =
 * first release
 
 == Upgrade Notice ==
 
-= 1.0 =
-Upgrade notices describe the reason a user should upgrade; not available yet.
+= 1.1 =
+Only a upgrade of the readme file
 
 
 == Arbitrary section ==
