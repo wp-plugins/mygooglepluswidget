@@ -1,4 +1,4 @@
-=== MY GOOGLE PLUS WIDGET ===
+=== My Google Plus Widget ===
 Contributors: arjenketelaar
 Donate link: http://blog.ketelaar.info/projects/googlepluswidget/
 Tags: google plus widget api
