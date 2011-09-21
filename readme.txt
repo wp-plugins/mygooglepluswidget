@@ -4,7 +4,7 @@ Donate link: http://blog.ketelaar.info/projects/googlepluswidget/
 Tags: google plus widget api
 Requires at least: 2.0.2
 Tested up to: 3.2.1
-Stable tag: 1.3
+Stable tag: 1.3.1
 
 The Google Plus Widget is based on the official Google Plus API published by Google.
 
@@ -32,7 +32,7 @@ Setup instructions:
  - Fill in the url of your wordpress installation; click *Create Client ID*
  - Click *edit settings*. Replace the *Authorized Redirect URI* with the url of your wordpress installation added with */.index.php* (e.g. *http://www.mywordpress.com/index.php*)
 
-5. Go back to you WordPress Dashboard. Click on the Configuration Page by selecting *Google Plus Widget* under settings:
+1. Go back to you WordPress Dashboard. Click on the Configuration Page by selecting *Google Plus Widget* under settings:
 
  - paste your Google Pus ID (a big number) at *google_plus_id*
  - paste your oauth2_client_id from the API Access page
@@ -40,9 +40,9 @@ Setup instructions:
  - paste your oauth2_redirect_uri from the API Acces page
  - paste your developer_id from the API Access page (sometimes called API key)
 
-6. Install the widget by dragging the Google Plus Widget in the Appearance Menu to the widget space you want the widget to appear
+1. Install the widget by dragging the Google Plus Widget in the Appearance Menu to the widget space you want the widget to appear
 
-7. fill your Google Plus id to display the Google Plus updates on your wordpress site
+1. fill your Google Plus id to display the Google Plus updates on your wordpress site
 
 == Frequently Asked Questions ==
 
@@ -61,6 +61,12 @@ the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1
 2. This is the second screen shot
 
 == Changelog ==
+
+= 1.3.1 = 
+error in googlepluswidget.php resolved
+
+= 1.3 = 
+readme file clearified
 
 = 1.1 =
 Upgrade of the readme file to get versions 1.1
