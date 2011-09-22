@@ -1,4 +1,4 @@
-=== MY GOOGLE PLUS WIDGET ===
+=== My Google Plus Widget ===
 Contributors: arjenketelaar
 Donate link: http://blog.ketelaar.info/projects/googlepluswidget/
 Tags: google plus widget api
@@ -61,6 +61,9 @@ the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1
 2. This is the second screen shot
 
 == Changelog ==
+
+= 1.3.2 = 
+small changes in readme file
 
 = 1.3.1 = 
 error in googlepluswidget.php resolved

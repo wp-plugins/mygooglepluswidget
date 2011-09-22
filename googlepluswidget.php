@@ -1,13 +1,13 @@
 <?php
 /*
-Plugin Name: Google Plus Widget
-Plugin URI: http://www.ketelaar.info/googlepluswidget/
-Description: Genealogy plugin will help you map out your family relationships using WordPress.
+Plugin Name: My Google Plus Widget
+Plugin URI: http://blog.ketelaar.info/projects/googlepluswidget/
+Description: Enables a Widget which shows you Google Plus Updates (based on official Google API)
 Author: Arjen Ketelaar (Ketelaar Museum)
-Version: 1.0
+Version: 1.3
 Author URI: http://arjen.ketelaar.info
 
-Copyright 2011 Katz Web Services, Inc.  (email: info@ketelaar.info)
+Copyright 2011 Arjen Ketelaar (email: projects -at- ketelaar -dot- info)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -222,7 +222,7 @@ function gpw_plugin_admin_init(){
 
 // Draw the section header
 function gpw_plugin_section_text() {
-	echo '<p>Enter your settings here.</p>';
+	echo "<p>Enter your settings here. Copy the settings from a new project which you need to create on the Google API Console <a href='https://code.google.com/apis/console'>Google API Console. See the <a href='http://wordpress.org/extend/plugins/mygooglepluswidget/installation/'>instruction page</a> of the plugin.</p>";
 }
 
 // Display and fill the form field
