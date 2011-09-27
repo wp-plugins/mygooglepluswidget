@@ -85,7 +85,7 @@ Only a upgrade of the readme file
 
 == Arbitrary section ==
 
-No text yet
+No text yet; but will come later
 
 == A brief Markdown Example ==
 
